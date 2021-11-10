@@ -6,9 +6,8 @@ function sub(a, b) {
   return a - b;
 }
 
-function mult() {
-  //TODO: Implementar multiplicação
-}
+//* multiplicação *//
+const mult = (a,b) => a * b
 
 //* divisão *//
 const div = (a,b) => a / b
