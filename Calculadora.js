@@ -6,9 +6,9 @@ function sub(){
     //TODO: Implementar subtração
 }
 
-function mult(){
-    //TODO: Implementar multiplicação
-}
+//* multiplicação *//
+const mult = (a,b) => a * b
+
 
 function div(){
     //TODO: Implementar divisão
