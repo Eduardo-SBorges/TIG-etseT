@@ -1,15 +1,13 @@
-function sum(){
-    //TODO: Implementar soma
+function sum(a, b) {
+  return a + b;
 }
 
-function sub(){
-    //TODO: Implementar subtração
+function sub(a, b) {
+  return a - b;
 }
 
 //* multiplicação *//
 const mult = (a,b) => a * b
 
-
-function div(){
-    //TODO: Implementar divisão
-}
+//* divisão *//
+const div = (a,b) => a / b
