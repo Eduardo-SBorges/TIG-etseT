@@ -1,13 +1,13 @@
-function sum(){
-    //TODO: Implementar soma
+function sum(a, b) {
+  return a + b;
 }
 
-function sub(){
-    //TODO: Implementar subtração
+function sub(a, b) {
+  return a - b;
 }
 
-function mult(){
-    //TODO: Implementar multiplicação
+function mult() {
+  //TODO: Implementar multiplicação
 }
 
 //* divisão *//
