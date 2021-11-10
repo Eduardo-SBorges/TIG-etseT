@@ -1,0 +1,55 @@
+    1  git clone https://github.com/Eduardo-SBorges/TIG-etseT.git
+    2  cd TIG-etseT/
+    3  cd ..
+    4  cd TIG-etseT/
+    5  pwd
+    6  git reset
+    7  git restore .
+    8  git restore .
+    9  git checkout -b feature/soma
+   10  git add .
+   11  git commit -m "Função para soma de valores"
+   12  git push origin feature/soma 
+   13  git checkout -b feature/subtracao
+   14  git checkout master
+   15  git restore .
+   16  git checkout master 
+   17  git branch -D feature/subtracao 
+   18  git branch
+   19  history
+   20  git checkout -b feature/subtracao
+   21  git add .
+   22  git commit -m "Função para subtração de valores"
+   23  git push origin feature/subtracao 
+   24  git restore .
+   25  git checkout master
+   26  git tag -a 1.0.0 -m "Lançando primeira versão da aplicação"
+   27  git add .
+   28  git commit -m "Adição do readme"
+   29  git push origin master
+   30  git pull
+   31  git push origin master
+   32  git push origin +master
+   33  history
+   34  git pull
+   35  1  git clone 
+   36  https://github.com/Eduardo-SBorges/TIG-etseT.git
+   37      2  cd TIG-etseT/
+   38      3  cd ..
+   39      4  cd TIG-etseT/
+   40      5  pwd
+   41      6  git reset
+   42      7  git restore .
+   43      8  git restore .
+   44      9  git checkout -b feature/soma
+   45     10  git add .
+   46     11  git commit -m "Função para soma de valores"
+   47     12  git push origin feature/soma
+   48     13  git checkout -b feature/subtracao
+   49     14  git checkout master
+   50     15  git restore .
+   51     16  git checkout master
+   52     17  git branch -D feature/subtracao
+   53     18  git branch
+   54     19  history
+   55  history > LOG_EduardoBorges
