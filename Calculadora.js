@@ -10,6 +10,5 @@ function mult() {
   //TODO: Implementar multiplicação
 }
 
-function div() {
-  //TODO: Implementar divisão
-}
+//* divisão *//
+const div = (a,b) => a / b
